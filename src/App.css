@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 80px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 2em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.inputTask{
+  height:30px;
+  width: 400px;
+  padding: 5px;
+  margin: 15px;
+  text-align: center;
+}
+
+.submitBtn{
+  width:65px;
+  height:30px;
+  background-color:#5EDCF0;
+  border-color: #5EDCF0;
+}
+
+.outputTaskList{
+  padding:10px;
+  height:60px;
+  width:600px;
+  border:.5px solid black;
+  margin-bottom: 5px;
+}
+
+.ulTag{
+ padding-left: 35%;
+}
+
+.outputBtns{
+  float: right;
+  width:65px;
+  height:30px;
+  background-color:#5EDCF0;
+  border-color: #5EDCF0;
+  margin:5px
+}
+
+.strike{
+  text-decoration: line-through;
+}
+
+
+
